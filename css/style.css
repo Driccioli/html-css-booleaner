@@ -1,0 +1,25 @@
+header{
+    background-color: darkcyan;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    height: 150px;
+}
+
+header > img{
+    max-width: 300px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+span{
+    color: gray;
+    font-size: 20px;
+}
+
+.blue{
+    color: lightseagreen;
+}
+
+#data{
+    font-size: 15px;
+}
