@@ -44,8 +44,7 @@ header > img{
 }
 .inline-block{
     display: inline-block;
-    text-align: justify;
-    margin-inline: 20px;
+    width: 400px;
 }
 
 div{
