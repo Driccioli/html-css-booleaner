@@ -1,7 +1,7 @@
 header{
     background-color: darkcyan;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 40%;
     height: 150px;
 }
 
@@ -20,6 +20,10 @@ header > img{
     background-color: rgb(175, 230, 227);
 }
 
+a{
+    color: rgb(73, 118, 201);
+    text-decoration: none;
+}
 #data{
     color: gray;
     font-size: 15px;
